@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Header](https://raw.githubusercontent.com/wasaysir/Github-Header.png "Header")](https://wasaysir.github.io/personal-website/)
 
 <a href="https://www.linkedin.com/in/wasay-saeed-3780ab164/">
-  <img align="left" alt="Wasay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Wasay's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ## Things about me!
