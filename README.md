@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/wasaysir/Github-Header.png "Header")](https://wasaysir.github.io/personal-website/)
+[![Header](https://github.com/wasaysir/wasaysir/blob/main/Github-Header.png "Header")](https://wasaysir.github.io/personal-website/)
 
 <a href="https://www.linkedin.com/in/wasay-saeed-3780ab164/">
   <img align="left" alt="Wasay's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 ## Music!
 
 <a href="https://www.last.fm/user/wasaysir">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=wasaysir&count=7" alt="My Last.fm" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=orangekhalifa&count=3" alt="My Last.fm" />
 </a>
