@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/wasay-saeed-3780ab164/">
   <img align="left" alt="Wasay's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
 
 ## Things about me!
 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 - I love Formula 1, Tetris, and Graphic Design
 - Fun Fact: I couldn't tie my own shoes until I was 16
 
-**languages and tools:**
+**Languages and tools I use!**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -39,13 +40,22 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## My Programming Stats!
+<center>
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wasaysir&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=070443&stroke=070443&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF78)"/>
+  </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wasaysir&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=070443&stroke=070443&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF78)](https://git.io/streak-stats)
-
-[![Wasay's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasaysir&text_color=FFFFFF&title_color=FF0000&bg_color=DEG,070443,070443&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasaysir&text_color=FFFFFF&title_color=FF0000&bg_color=DEG,070443,070443&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  </p>
+  
 
 ## Music!
 
-<a href="https://www.last.fm/user/orangekhfalifa">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=orangekhalifa&count=3" alt="My Last.fm" />
-</a>
+  <p align="center">
+    <a align="center" href="https://www.last.fm/user/orangekhfalifa">
+      <img align="center" src="https://lastfm-recently-played.vercel.app/api?user=orangekhalifa&count=3" alt="My Last.fm" />
+  </a>
+  </p>
+  
+
