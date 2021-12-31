@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 ## Music!
 
-<a href="https://www.last.fm/user/wasaysir">
+<a href="https://www.last.fm/user/orangekhfalifa">
   <img src="https://lastfm-recently-played.vercel.app/api?user=orangekhalifa&count=3" alt="My Last.fm" />
 </a>
