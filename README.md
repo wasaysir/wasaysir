@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 [![Header](https://github.com/wasaysir/wasaysir/blob/main/Github-Header.png "Header")](https://wasaysir.github.io/personal-website/)
 
 <a href="https://www.linkedin.com/in/wasay-saeed-3780ab164/">
-  <img align="left" alt="Wasay's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Wasay's Linkedin" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
 <br>
 
 ## Things about me!
 
-- I'm a student at both the University of Waterloo and Wilfrid Laurier University, studying Computer Science and Business respectively
-- I'm currently working on a resume builder web-app
-- I'm looking for an internship for the summer of 2022
-- I love Formula 1, Tetris, and Graphic Design
-- Fun Fact: I couldn't tie my own shoes until I was 16
+- I'm a student at both the University of Waterloo studying Computer Science
+- I'm currently working on a Combinatorics and Optimization solver
+- I'm looking for an internship for the summer of 2024
+- I love Formula 1, Mathematical Programming, and Graphic Design
 
 **Languages and tools I use!**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
