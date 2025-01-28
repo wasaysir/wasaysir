@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ## Things about me!
 
-- I'm a student at both the University of Waterloo studying Computer Science
-- I'm currently working on a Combinatorics and Optimization solver
-- I'm looking for an internship for the summer of 2024
-- I love Formula 1, Mathematical Programming, and Graphic Design
+- I'm a student at both the University of Waterloo studying Computer Science and Bioinformatics
+- I'm currently working on a Custom Blogging Markup Language
+- I'm looking for an internship for the summer of 2025
+- I love Formula 1, Bioinformatics, and Graphic Design
 
 **Languages and tools I use!**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -37,16 +37,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-## My Programming Stats!
-<center>
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wasaysir&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=070443&stroke=070443&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF78)"/>
-  </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasaysir&text_color=FFFFFF&title_color=FF0000&bg_color=DEG,070443,070443&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  </p>
   
 
 ## Music!
