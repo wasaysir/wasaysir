@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - I'm a student at both the University of Waterloo studying Computer Science and Bioinformatics
 - I'm currently working on a Custom Blogging Markup Language
-- I'm looking for an internship for the summer of 2025
+- I'm looking for new grad roles in 2026!
 - I love Formula 1, Bioinformatics, and Graphic Design
 
 **Languages and tools I use!**
